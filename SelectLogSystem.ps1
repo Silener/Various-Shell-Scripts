@@ -1,0 +1,2 @@
+$str = "SELECT TOP 1000 * FROM LOG_SYSTEM WITH(NOLOCK) ORDER BY ID DESC"
+Set-Clipboard -Value $str

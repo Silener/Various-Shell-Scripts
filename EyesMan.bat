@@ -1,0 +1,1 @@
+powershell.exe C:\Users\evelikov\Desktop\EyesMan.ps1

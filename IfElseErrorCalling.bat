@@ -1,0 +1,1 @@
+powershell.exe C:\Users\evelikov\Desktop\IfElseErrorCalling.ps1

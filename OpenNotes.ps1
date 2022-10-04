@@ -1,0 +1,1 @@
+﻿start "C:\Users\evelikov\Desktop\Notes.txt"

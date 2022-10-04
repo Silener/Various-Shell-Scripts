@@ -1,0 +1,1 @@
+powershell.exe C:\Users\evelikov\Desktop\CopyImage.ps1
